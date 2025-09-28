@@ -137,3 +137,24 @@ body {
 .btn:hover {
   background-color: #b3785e;
 }
+
+.container2{
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.stats-section{
+  display: flex;
+  text-align: center;
+  padding: 60px 0;
+  background-color: var(--background-light);
+}
+
+.stats-section .container2{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.
